@@ -1,0 +1,5 @@
+2026-09-14 09:52:18,500 | INFO     | Logger ready
+2026-09-14 09:52:18,518 | WARNING  | This is what a warning looks like
+2026-09-14 09:54:15,010 | WARNING  | skipping bad row: 'Faisal Alharbi,N/A' -> could not convert string to float: 'N/A'
+2026-09-14 09:54:15,041 | WARNING  | skipping bad row: 'Omar Alshehri,' -> could not convert string to float: ''
+2026-09-14 09:54:33,652 | ERROR    | file not found: data/nope.csv
